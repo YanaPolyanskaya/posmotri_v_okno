@@ -96,6 +96,7 @@ input {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  padding-bottom: 2px;
 }
 
 /*search-form__fieldset*/
@@ -326,6 +327,7 @@ fieldset {
   overflow: auto;
   /* gap: 30px; */
   position: relative;
+  /* width: 398px; */
 }
 
 .content__list-item:not(:last-child) {
